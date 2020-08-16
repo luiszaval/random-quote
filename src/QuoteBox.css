@@ -1,0 +1,49 @@
+
+#quote-box{
+	border: 4px solid #ee9ca7;
+	width: 500px;
+	text-align: center;
+	padding: 40px 50px;
+	border-radius: 5px;
+	background-color: #fff;
+	transition: all 2s;
+	box-shadow: 0 10px 6px -6px rgba(0, 0, 0, 0.4);
+	/*box-shadow: inset 0 0 10px #000000;*/
+}
+#quote-box:hover {
+	transform: scale(1.1);
+}
+button{
+	border-radius: 3px;
+	margin: 5px;
+	cursor: pointer;
+	color: #fff;
+	background-color: #2193b0;
+	border: 1px solid #fff;
+	outline: none;
+}
+i{
+	color: #fff;
+	background-color: #2193b0;
+}
+/*font-family: 'Raleway', sans-serif;
+font-weight: 400;
+margin: 0;
+list-style: none;
+vertical-align: baseline;
+border: none;
+border-radius: 3px;
+color: #fff;
+outline: none;
+margin-top: 30px;
+opacity: 1;
+cursor: pointer;
+float: left;
+padding: 0px;
+padding-top: 8px;
+text-align: center;
+font-size: 1.2em;
+margin-right: 5px;
+height: 30px;
+width: 40px;
+background-color: rgb(52, 34, 36);*/
